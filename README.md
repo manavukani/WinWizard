@@ -14,3 +14,6 @@ WinWizard is a data-driven project that scrapes statistical data from [FBref](ht
 - **Beautiful Soup:** Used for web scraping to extract data from the Premier League stats website.
 - **Pandas:** Utilized for data manipulation and analysis.
 - **Scikit-learn:** Employed for building and training machine learning models.
+
+## Flow Diagram
+![Artboard 1](https://github.com/user-attachments/assets/17421390-5e13-4f79-adbd-a7a76a80d092)
