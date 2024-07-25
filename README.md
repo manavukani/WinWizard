@@ -16,4 +16,4 @@ WinWizard is a data-driven project that scrapes statistical data from [FBref](ht
 - **Scikit-learn:** Employed for building and training machine learning models.
 
 ## Flow Diagram
-![Artboard 1](https://github.com/user-attachments/assets/17421390-5e13-4f79-adbd-a7a76a80d092)
+![Win_Wizard](https://github.com/user-attachments/assets/94e59c9a-38b4-4460-94f5-73226672e345)
